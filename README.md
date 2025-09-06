@@ -1,4 +1,4 @@
-# Cloud Microservices Mystery Box Application (Moved to this repo from https://github.com/rantisijaber/mystery-box-cloud-microservices)
+# Cloud Microservices Mystery Box Application 
 
 This project demonstrates a microservices architecture deployed on AWS, integrating frontend and backend services with secure authentication and scalable infrastructure.
 
